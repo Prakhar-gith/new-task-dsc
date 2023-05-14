@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Prakhar-gith/new-task-dsc/static/css/main.0add5ef5.css",
+    "main.js": "/Prakhar-gith/new-task-dsc/static/js/main.96d8f908.js",
+    "static/js/787.904e4c0b.chunk.js": "/Prakhar-gith/new-task-dsc/static/js/787.904e4c0b.chunk.js",
+    "index.html": "/Prakhar-gith/new-task-dsc/index.html",
+    "main.0add5ef5.css.map": "/Prakhar-gith/new-task-dsc/static/css/main.0add5ef5.css.map",
+    "main.96d8f908.js.map": "/Prakhar-gith/new-task-dsc/static/js/main.96d8f908.js.map",
+    "787.904e4c0b.chunk.js.map": "/Prakhar-gith/new-task-dsc/static/js/787.904e4c0b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0add5ef5.css",
+    "static/js/main.96d8f908.js"
+  ]
+}
