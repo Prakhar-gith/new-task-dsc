@@ -16,7 +16,7 @@ export class Contact extends Component {
               <div className="card-body" d-flex flex-column>
                 <h5 className="card-title">LinkedIn</h5>
                 <p className="card-text"> </p>
-                <a href="#" className="btn btn-dark">Connect</a>
+                <a href="/" className="btn btn-dark">Connect</a>
               </div>
             </div>
             <div className="card mx-1" style={{ width: '9.5rem', background:'black', color:'white'}}>
